@@ -4,17 +4,23 @@
 
 Sou um Engenheiro de Software recém-formado pela UFMS, focado na construção de sistemas escaláveis e robustos. Minha abordagem é **"Problem-First"**: a tecnologia é o meio para resolver dores reais de negócio.
 
-Embora atue como Full Stack, tenho uma paixão especial por **Backend**, **Modelagem de Dados** e **Arquitetura de Software**.
+Embora atue como Full Stack, tenho uma paixão especial por **Backend**, **Modelagem de Dados** e **Testes Automatizados/QA**.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-**Backend & Database**
+**Backend & Languages**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Databases & Infra**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -35,21 +41,10 @@ Embora atue como Full Stack, tenho uma paixão especial por **Backend**, **Model
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/henriquemilitao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemilitao&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemilitao&layout=compact&theme=transparent"/>
-  </a>
-</div>
-
----
-
 ### 📫 Contato
 
 * 💼 **LinkedIn:** [linkedin.com/in/henrique-militao](https://linkedin.com/in/henrique-militao)
-* 🌐 **Portfólio:** [Em breve]
+* 🌐 **Portfólio:** [Link do seu site na Vercel]
 * 📧 **Email:** henriquemilitao35@gmail.com
 
 ---
